@@ -22,10 +22,10 @@ SciPy
 Pandas 
 Scikit-learn
 
-Additional Tools/Modules Used :
+Additional Tools/Modules Used 
 
-Matplotlib and Seaborn: These libraries are used for data visualization, specifically for creating histograms, correlation matrices, and pair plots in your code.
+Matplotlib and Seaborn
 
-XGBoost: The code imports XGBClassifier and XGBRegressor from the XGBoost library, indicating the use of XGBoost for classification and regression tasks.
+XGBoost
 
 Streamlit
