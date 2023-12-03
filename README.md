@@ -12,6 +12,8 @@ My 3 questions from the dataset are
 
 ## Selection of Data
 
+The dataset used in this project is sourced from /kaggle/input/sleep-efficiency/Sleep_Efficiency.csv. The dataset includes information on sleep-related factors such as age, gender, sleep duration, sleep efficiency, REM sleep percentage, and more. 
+
 ## Methods
 Tools:
 For data analysis and inference, the project utilizes a set of powerful tools:
