@@ -4,7 +4,9 @@ The purpose of this project is to analyze sleep efficiency data to understand th
 
 My 3 questions from the dataset are
 -What is the Relationship Between Age and Sleep Efficiency?
+
 -How Do Lifestyle Choices, Such as Caffeine and Alcohol Consumption, Impact Sleep Efficiency?
+
 -Which Model Performs Best in Predicting Sleep Efficiency?
 
 ## Selection of Data
