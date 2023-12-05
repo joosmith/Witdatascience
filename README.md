@@ -15,7 +15,7 @@ My 3 questions from the dataset are
 
 The dataset used in this project is sourced from Kaggle. The dataset includes information on sleep-related factors such as age, gender, sleep duration, sleep efficiency, REM sleep percentage, and more. 
 
-![Ashutosh's github activity graph](https://github.com/joosmith/Witdatascience/blob/main/graph/Data_preview.png)
+![Ashutosh's github activity graph](https://github.com/joosmith/Witdatascience/blob/main/graph/Data__preview.png)
 ## Methods
 Tools:
 For data analysis and inference, the project utilizes a set of powerful tools:
