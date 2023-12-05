@@ -1,7 +1,7 @@
 # Witdatascience
 ## Introduction
 The purpose of this project is to analyze sleep efficiency data to understand the factors that may influence sleep quality. The research question revolves around identifying the relationship between various features (such as age, gender, sleep duration, etc.) and sleep efficiency. The primary goal is to build predictive models that can estimate sleep efficiency based on these features.
-![Ashutosh's github activity graph](https://github.com/joosmith/Witdatascience/blob/main/graph/Age_Sleepeff.png)
+
 
 My 3 questions from the dataset are
 
@@ -15,6 +15,7 @@ My 3 questions from the dataset are
 
 The dataset used in this project is sourced from Kaggle. The dataset includes information on sleep-related factors such as age, gender, sleep duration, sleep efficiency, REM sleep percentage, and more. 
 
+![Ashutosh's github activity graph](https://github.com/joosmith/Witdatascience/blob/main/graph/Data_preview.png)
 ## Methods
 Tools:
 For data analysis and inference, the project utilizes a set of powerful tools:
