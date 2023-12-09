@@ -50,6 +50,18 @@ XGBoost
 
 Streamlit
 
+## Results
+
+In our exploration of sleep efficiency, we looked into how lifestyle choices, specifically caffeine and alcohol consumption, might affect our sleep. We used visualizations and numbers from a big set of sleep-related data to understand this better. For caffeine, it seemed like people who drank less had better sleep efficiency, showing a positive connection. Numbers supported this, indicating higher sleep efficiency in those with little to no caffeine. Turning to alcohol, our data suggested a possible downside – higher alcohol intake might lead to lower sleep efficiency. Visual clues and numbers hinted at this trend. We also considered outliers, showing us that people respond differently. In conclusion, our findings highlight how lifestyle choices, like caffeine and alcohol, can impact sleep quality, offering insights for everyone to consider for better sleep.
+
+![Ashutosh's github activity graph]()
+
+
+
+
+
+
+
 ## Reference
 
 https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency/code
