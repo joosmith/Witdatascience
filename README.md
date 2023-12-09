@@ -57,10 +57,11 @@ The relationship between age and sleep efficiency was explored using scatter plo
 
 ![Ashutosh's github activity graph](https://github.com/joosmith/Witdatascience/blob/main/graph/Age_Sleepeff.png)
 
+
 ![Ashutosh's github activity graph](https://github.com/joosmith/Witdatascience/blob/main/graph/Sleepeff_features.png)
 
 
-
+How Do Lifestyle Choices, Such as Caffeine and Alcohol Consumption, Impact Sleep Efficiency?
 
 In our exploration of sleep efficiency, we looked into how lifestyle choices, specifically caffeine and alcohol consumption, might affect our sleep. We used visualizations and numbers from a big set of sleep-related data to understand this better. For caffeine, it seemed like people who drank less had better sleep efficiency, showing a positive connection. Numbers supported this, indicating higher sleep efficiency in those with little to no caffeine.
 
