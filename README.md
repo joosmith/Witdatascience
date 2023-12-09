@@ -72,9 +72,14 @@ In our exploration of sleep efficiency, we looked into how lifestyle choices, sp
  
 ![Ashutosh's github activity graph](https://github.com/joosmith/Witdatascience/blob/main/graph/impact_of%20_alchohol.png)
 
+### Which Model Performs Best in Predicting Sleep Efficiency?
+
+In predicting sleep efficiency, various models were employed and assessed for their performance. Linear regression, Ridge regression, Lasso regression, and Random Forest regression were among the models evaluated. After conducting cross-validation and measuring mean squared error (MSE) and R-squared (R2) scores, it was observed that the Random Forest model exhibited the most favorable results. The Random Forest model demonstrated a lower MSE and a higher R2, suggesting superior predictive capabilities compared to the other models. This indicates that, among the models tested, the Random Forest regression model is more effective in capturing the complexities of the data and providing accurate predictions for sleep efficiency.
 
 
+![Ashutosh's github activity graph]()
 
+The Random Forest model performs the best among the considered models, exhibiting the lowest MSE and the highest R2 score. This suggests that Random Forest is the most effective in predicting sleep efficiency based on the given features.
 
 ## Reference
 
