@@ -81,6 +81,13 @@ In predicting sleep efficiency, various models were employed and assessed for th
 
 The Random Forest model performs the best among the considered models, exhibiting the lowest MSE and the highest R2 score. This suggests that Random Forest is the most effective in predicting sleep efficiency based on the given features.
 
+## Discussion 
+
+The scatter plot analysis indicates a diverse distribution in the relationship between age and sleep efficiency, suggesting age alone might not be the sole determinant. Further exploration into additional factors did enhance our understanding.Reduced caffeine intake shows a positive correlation with higher sleep efficiency, while higher alcohol consumption is associated with lower sleep efficiency. Individual variations, highlighted by outliers, emphasize the need for personalized considerations.The Random Forest model excels in predicting sleep efficiency, showcasing lower mean squared error and higher R-squared scores. This indicates its effectiveness in capturing complex data patterns for accurate predictions. Future research could refine this model or explore alternative approaches.
+
+## Summary
+
+The three key questions: the relationship between age and sleep efficiency, the impact of lifestyle choices (like caffeine and alcohol) on sleep, and the best predictive model. Visualizations showed a varied age-sleep efficiency connection, highlighting the need for multiple considerations. Regarding lifestyle, less caffeine linked to better sleep, while higher alcohol suggested the opposite. The Random Forest model outshone others, boasting lower error and higher accuracy in predicting sleep efficiency. These findings stress the complexity of sleep determinants, underlining lifestyle's role and Random Forest's efficacy in forecasting sleep quality.
 ## Reference
 
 https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency/code
