@@ -51,7 +51,7 @@ XGBoost
 Streamlit
 
 ## Results
-What is the Relationship Between Age and Sleep Efficiency?
+### What is the Relationship Between Age and Sleep Efficiency?
 
 The relationship between age and sleep efficiency was explored using scatter plots, examining various sleep-related features. In the visual representation, the scatter plot for "Sleep efficiency vs Age" indicates a diverse distribution. While there doesn't seem to be a clear linear pattern, the scatter points reveal a spread of sleep efficiency scores across different age groups. This suggests that age alone may not be the sole determinant of sleep efficiency, and other factors might contribute to the observed variations. 
 
@@ -61,7 +61,7 @@ The relationship between age and sleep efficiency was explored using scatter plo
 ![Ashutosh's github activity graph](https://github.com/joosmith/Witdatascience/blob/main/graph/Sleepeff_features.png)
 
 
-How Do Lifestyle Choices, Such as Caffeine and Alcohol Consumption, Impact Sleep Efficiency?
+### How Do Lifestyle Choices, Such as Caffeine and Alcohol Consumption, Impact Sleep Efficiency?
 
 In our exploration of sleep efficiency, we looked into how lifestyle choices, specifically caffeine and alcohol consumption, might affect our sleep. We used visualizations and numbers from a big set of sleep-related data to understand this better. For caffeine, it seemed like people who drank less had better sleep efficiency, showing a positive connection. Numbers supported this, indicating higher sleep efficiency in those with little to no caffeine.
 
