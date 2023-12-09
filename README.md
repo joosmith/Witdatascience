@@ -59,7 +59,6 @@ The relationship between age and sleep efficiency was explored using scatter plo
 ![Ashutosh's github activity graph](https://github.com/joosmith/Witdatascience/blob/main/graph/Age_Slpeff.png)
 
 
-![Ashutosh's github activity graph](https://github.com/joosmith/Witdatascience/blob/main/graph/Sleepeff_features.png)
 
 
 ### How Do Lifestyle Choices, Such as Caffeine and Alcohol Consumption, Impact Sleep Efficiency?
@@ -84,6 +83,9 @@ The Random Forest model performs the best among the considered models, exhibitin
 ## Discussion 
 
 The scatter plot analysis indicates a diverse distribution in the relationship between age and sleep efficiency, suggesting age alone might not be the sole determinant. Further exploration into additional factors did enhance our understanding.Reduced caffeine intake shows a positive correlation with higher sleep efficiency, while higher alcohol consumption is associated with lower sleep efficiency. Individual variations, highlighted by outliers, emphasize the need for personalized considerations.The Random Forest model excels in predicting sleep efficiency, showcasing lower mean squared error and higher R-squared scores. This indicates its effectiveness in capturing complex data patterns for accurate predictions. Future research could refine this model or explore alternative approaches.
+
+![Ashutosh's github activity graph](https://github.com/joosmith/Witdatascience/blob/main/graph/Sleepeff_features.png)
+
 
 ## Summary
 
