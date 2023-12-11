@@ -89,7 +89,7 @@ The scatter plot analysis indicates a diverse distribution in the relationship b
 
 ## Summary
 
-The three key questions: the relationship between age and sleep efficiency, the impact of lifestyle choices (like caffeine and alcohol) on sleep, and the best predictive model. Visualizations showed a varied age-sleep efficiency connection, highlighting the need for multiple considerations. Regarding lifestyle, less caffeine linked to better sleep, while higher alcohol suggested the opposite. The Random Forest model outshone others, boasting lower error and higher accuracy in predicting sleep efficiency. These findings stress the complexity of sleep determinants, underlining lifestyle's role and Random Forest's efficacy in forecasting sleep quality.
+The relationship between age and sleep efficiency, the impact of lifestyle choices (like caffeine and alcohol) on sleep, and the best predictive model. Visualizations showed a varied age-sleep efficiency connection, highlighting the need for multiple considerations. Regarding lifestyle, less caffeine linked to better sleep, while higher alcohol suggested the opposite. The Random Forest model outshone others, boasting lower error and higher accuracy in predicting sleep efficiency. These findings stress the complexity of sleep determinants, underlining lifestyle's role and Random Forest's efficacy in forecasting sleep quality.
 ## Reference
 
 https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency/code
