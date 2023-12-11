@@ -32,24 +32,14 @@ Data Transformation:
 Categorical variables, such as "Gender" and "Smoking status," are encoded into numerical values (0 or 1) for compatibility with machine learning algorithms.
 Conducted EDA, visualizing target distribution, correlation matrix, and pairplots.
 
-Selected Linear Regression, considering assumptions, and evaluated with cross-validation.
 
-Explored Ridge, Lasso, Random Forest models, evaluating performance and cross-validation.
+In my exploration of predictive modeling, I delved into the intricacies of Ridge, Lasso, and Random Forest models, meticulously evaluating their performance using metrics like Mean Squared Error (MSE), R-squared, and cross-validation scores. To broaden the comparative analysis, I incorporated polynomial features, Neural Network, and Gradient Boosting into the modeling framework. The assessment covered a diverse set of evaluation criteria, providing a comprehensive understanding of each model's strengths and weaknesses.
 
-Incorporated polynomial features, Neural Network, and Gradient Boosting for comparison.
+To gain deeper insights into the predictive features, I focused on visualizing feature importance, with a special emphasis on the Gradient Boosting model. This step was crucial in understanding the impact of variables on predictive outcomes and refining the models accordingly.
 
-Evaluated models using MSE, R-squared, and cross-validation scores.
+In addition to the modeling techniques, I utilized essential tools and modules to enhance the analysis. Matplotlib and Seaborn were employed for clear visual representation, aiding in the interpretation of results. XGBoost contributed to the implementation of boosting algorithms, adding another layer of sophistication to the analysis.
 
-Visualized feature importance, particularly in the Gradient Boosting model.
-
-Additional Tools/Modules Used 
-
-Matplotlib and Seaborn
-
-XGBoost
-
-Streamlit
-
+Collectively, these components constituted a comprehensive and insightful examination, blending sophisticated modeling approaches with efficient tools to gain a thorough understanding of the predictive terrain.
 ## Results
 
 ### What is the Relationship Between Age and Sleep Efficiency?
@@ -67,7 +57,7 @@ In our exploration of sleep efficiency, we looked into how lifestyle choices, sp
 
 ![Ashutosh's github activity graph](https://github.com/joosmith/Witdatascience/blob/main/graph/impact_of%20_caffeine.png)
 
- Turning to alcohol, our data suggested a possible downside – higher alcohol intake might lead to lower sleep efficiency. Visual clues and numbers hinted at this trend. We also considered outliers, showing us that people respond differently. In conclusion, our findings highlight how lifestyle choices, like caffeine and alcohol, can impact sleep quality, offering insights for everyone to consider for better sleep.
+Turning to alcohol, our data suggested a possible downside – higher alcohol intake might lead to lower sleep efficiency. Visual clues and numbers hinted at this trend. We also considered outliers, showing us that people respond differently. In conclusion, our findings highlight how lifestyle choices, like caffeine and alcohol, can impact sleep quality, offering insights for everyone to consider for better sleep.
  
 ![Ashutosh's github activity graph](https://github.com/joosmith/Witdatascience/blob/main/graph/impact_of%20_alchohol.png)
 
