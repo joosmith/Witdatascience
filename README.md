@@ -3,13 +3,13 @@
 The purpose of this project is to analyze sleep efficiency data to understand the factors that may influence sleep quality. The research question revolves around identifying the relationship between various features (such as age, gender, sleep duration, etc.) and sleep efficiency. The primary goal is to build predictive models that can estimate sleep efficiency based on these features.
 
 
-My 3 questions from the dataset are
+My 3 questions from the dataset are:
 
-1 What is the Relationship Between Age and Sleep Efficiency?
+1. What is the Relationship Between Age and Sleep Efficiency?
 
-2 How Do Lifestyle Choices, Such as Caffeine and Alcohol Consumption, Impact Sleep Efficiency?
+2. How Do Lifestyle Choices, Such as Caffeine and Alcohol Consumption, Impact Sleep Efficiency?
 
-3 Which Model Performs Best in Predicting Sleep Efficiency?
+3. Which Model Performs Best in Predicting Sleep Efficiency?
 
 ## Selection of Data
 
